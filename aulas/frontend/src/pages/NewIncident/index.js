@@ -72,7 +72,7 @@ export default function NewIncident() {
                     onChange={e => setValue(e.target.value)}
                     />
                     <ul>
-                    <Link className="back-link" to="/profile">
+                    <Link className="back-link, cmargin" to="/profile">
                         <button className="button" type="Submit">
                         Cancelar
                         </button>

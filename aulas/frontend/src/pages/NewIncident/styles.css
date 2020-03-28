@@ -15,7 +15,6 @@
     background: #f0f0f5;
     box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,10 +63,6 @@ line-height: 32px;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 24px;
     list-style: none;
-}
-
-.back-link {
-    margin-top: 0px;
 }
 
 
